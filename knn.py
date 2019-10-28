@@ -1,6 +1,6 @@
 class KNeighborsClassifier:
 
-    def __init(self, k):
+    def __init__(self, k):
         self.k = k
 
     def fit(self, X_train, y_train):
